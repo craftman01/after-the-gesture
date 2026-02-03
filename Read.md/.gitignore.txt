@@ -1,0 +1,13 @@
+# TouchDesigner
+*.tox~
+*.toe~
+Derivatives/
+Cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
